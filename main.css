@@ -3,7 +3,10 @@
 
 	/* -- body -- */
 
-body {overflow-x:hidden}
+/* body {overflow-x:hidden}*/
+body {
+  background: hotpink !important;
+}
 
 	/* -- buttons -- */
 
