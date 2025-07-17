@@ -67,6 +67,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //   click 'Prepare fonts filters' button, and import
 
 // If you need more explanations, go to https://github.com/zimny-lech/CyTube-Plus/wiki/FAQ
+console.log("Custom JS loaded!");
 
 UI_DefaultSynchtube = 1;	// default old Synchtube layout (player and playlist on the left)
 UI_Favicon = 1;			// [&] channel favicon
